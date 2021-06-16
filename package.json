@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-incr-pcorr2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Compute a squared sample Pearson product-moment correlation coefficient.",
   "license": "Apache-2.0",
   "author": {
