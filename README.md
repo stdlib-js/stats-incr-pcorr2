@@ -154,6 +154,24 @@ console.log( accumulator() );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/incr/apcorr`][@stdlib/stats/incr/apcorr]: compute a sample absolute Pearson product-moment correlation coefficient.
+-   [`@stdlib/stats/incr/mpcorr2`][@stdlib/stats/incr/mpcorr2]: compute a moving squared sample Pearson product-moment correlation coefficient incrementally.
+-   [`@stdlib/stats/incr/pcorr`][@stdlib/stats/incr/pcorr]: compute a sample Pearson product-moment correlation coefficient.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -212,6 +230,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [pearson-correlation]: https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
 
 [covariance]: https://en.wikipedia.org/wiki/Covariance
+
+<!-- <related-links> -->
+
+[@stdlib/stats/incr/apcorr]: https://github.com/stdlib-js/stats-incr-apcorr
+
+[@stdlib/stats/incr/mpcorr2]: https://github.com/stdlib-js/stats-incr-mpcorr2
+
+[@stdlib/stats/incr/pcorr]: https://github.com/stdlib-js/stats-incr-pcorr
+
+<!-- </related-links> -->
 
 </section>
 
