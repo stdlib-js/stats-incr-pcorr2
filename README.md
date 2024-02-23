@@ -82,6 +82,11 @@ The squared sample [Pearson product-moment correlation coefficient][pearson-corr
 ## Usage
 
 ```javascript
+import incrpcorr2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-pcorr2@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-incr-pcorr2/tags). For example,
+
+```javascript
 import incrpcorr2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-pcorr2@v0.2.1-esm/index.mjs';
 ```
 
@@ -147,7 +152,7 @@ r2 = accumulator();
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import incrpcorr2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-pcorr2@v0.2.1-esm/index.mjs';
+import incrpcorr2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-pcorr2@esm/index.mjs';
 
 var accumulator;
 var x;
