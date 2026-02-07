@@ -82,7 +82,7 @@ The squared sample [Pearson product-moment correlation coefficient][pearson-corr
 ## Usage
 
 ```javascript
-import incrpcorr2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-pcorr2@esm/index.mjs';
+import incrpcorr2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-pcorr2@v0.2.3-esm/index.mjs';
 ```
 
 #### incrpcorr2( \[mx, my] )
@@ -147,7 +147,7 @@ r2 = accumulator();
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import incrpcorr2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-pcorr2@esm/index.mjs';
+import incrpcorr2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-pcorr2@v0.2.3-esm/index.mjs';
 
 var accumulator;
 var x;
